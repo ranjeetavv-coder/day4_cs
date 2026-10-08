@@ -65,7 +65,7 @@ function App() {
 
       {/* Header */}
       <header className="header">
-        <h1>🚀 Learning DevOps</h1>
+        <h1>🚀 Learning DevOps is very easy!</h1>
         <p>Learn • Build • Deploy • Automate</p>
       </header>
 
@@ -75,7 +75,7 @@ function App() {
 
         <p>
           Learn the essential tools and technologies used in modern
-          software development and deployment.
+          software development and deployment.and also the front end development technologies like React and Vite. This platform provides a hands-on approach to mastering DevOps practices.
         </p>
 
         <button>Start Learning</button>
